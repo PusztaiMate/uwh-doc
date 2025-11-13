@@ -1,4 +1,4 @@
-# A magyar 2-3-1: szélsők
+# A magyar 2-3-1
 
 Három bejegyzésben szeretném áttekinteni a 2-3-1-ünket felépítő pozíciókat és azt, hogy a saját rendszerünkben milyen elvárásokat támasztunk eléjük.
 Ezeket az elvárásokat igyekszem majd megindokolni és lehetőség szerint példát is mutatni a jó kivitelezésükre, illetve rámutatni, hogy milyen problémát okozhat a figyelmen kívűl hagyásuk.
@@ -68,7 +68,6 @@ __Fontos__, hogy mindkét esetben próbáljon meg a szélső már a fal előtt 1
 A távoli szélső feljöhet a felszínre, ha a korong egyértelműen kiér a falra.
 
 ![Korong a elsőhöz kerül](abrak/szelso/rauszas_3.png)
-
 
 ### Középpálya fal
 
