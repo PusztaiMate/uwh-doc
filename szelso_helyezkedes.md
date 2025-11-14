@@ -52,7 +52,7 @@ A 3. pontot ignoráljuk egyelőre, ilyenkor alapvetően a normál védekezésre 
 
 ##### __Korong szélsőhöz kerül és az tud a fal felé úszni__
 
-A [közeli szélső]() célja ilyenkor - mint a fentebbi videóban is - hogy a korongot a fal mellé, a saját területére mentse ki.
+A [közeli szélső](#közeli--távoli-szélső-jobb-elnevezésre-vár) célja ilyenkor - mint a fentebbi videóban is - hogy a korongot a fal mellé, a saját területére mentse ki.
 Nagyon ritka az, hogy ilyenkor el tudjon szakadni az ellenféltől, általában az ellenfél külső játékosa - legyen az első vagy szélső - rögtön üldözőbe veszi a korongos játékost. Ilyenkor a szélsőnek sprintelnie kell a fal irányába, hogy megőrizze a korongot, és közben keresnie kell a lehetőséget, hogy az ellenfél __külső__ oldalán passzoljon az előtte lévő csapattársnak.
 
 Ha már elindult a közeli szélső a koronggal és láthatólag nem fogják szerelni, akkor a távoli szélső feljöhet a felszínre.
@@ -73,7 +73,35 @@ A távoli szélső feljöhet a felszínre, ha a korong egyértelműen kiér a fa
 
 #### Forgás
 
-#### Cél
+A standard forgás a falon a közeli szélső és a hátsó között folyik. Ideális esetben a középsőnek nem kell ide beforognia.
+
+![Statikus faljáték](abrak/szelso/fal_1.png)
+
+#### Cél - statikus játék
+
+Ha a falon ragadnak a csapatok, akkor egy statikusabb játék alakul ki. Ilyenkor az ellenfél helyezkedése függvényében több dolgot is megpróbálhat a csapat: megpróbálni haladni a falon vagy lenyitni róla.
+
+A szélsőknek ilyenkor figyelnie kell a kialakuló játékszituációt, illetve a középső és hátsó helyezkedését.
+
+##### __Közeli (fal) szélső__
+Ha a közeli szélsőhöz kerül a falon a korong, akkor négy passz közül választhat a helyzettől függően.
+
+- Az ábrán 1. és 2. számú passzok akkor működnek a legjobban, ha lent van mind a két elsőnk. A szélsőnek ilyenkor meg kell próbálnia __irányítani a passzal__, olyan helyre adni a korongot, hogy azzal jelezze az elsőknek, hogy merre tudnak azzal haladni. Általában akkor van lehetőség passzra (és nem csak a falon tunkolásra), ha pl. már forgott a csapat egyet a falon és a leghátsó befordult a szélső előtt és visszaadta a korongot.
+- A 3. számú passz általában csak egy test alatti suttyomban áttolást jelent, amikor nagyon összesűrűsödik a játék a falon. Ilyenkor a középső néha megpróbál kiváltani a jobb szélre vagy hátsónak, de gyakrabban nincs erre helye/lehetőség, így csak előrefelé próbál törni kicsi cselekkel. Mivel utóbbi esetben könnyen leüti a sok ellenfél a középső kezéről a korongot, ezért sokat számít, hogy a szélső lent marad-e még pár másodpercig és megpróbálja kísérni a középsőt. __A 3. számú passzt ezért ne utolsó lehelletével adja a szélső, hanem akkor, amikor még lent tud maradni.__
+- A 4. passz, amikor befordul a falon a szélső és hátrajátsza a korongot a hátsónak. Itt a hátsó pozíciójára kell figyelnie, hogy hova kéri a korongot:
+  - Nagyon közel van? Csak ott kell hagyni, a falon fog továbbmenni ő is.
+  - Helyet hagyott, de a fal mentén? Közepes passz a fel mentén hátra.
+  - A faltól 1 méterre helyezkedik, sok helyet hagyva? Le tudunk váltani, bal vagy jobb oldalára mehet a korong attól függően, hogy mit kér.
+
+##### __Távoli szélső__
+
+A játék körülményeitől függően (faljáték mennyire statikus, milyen a csapat kondija, mikor volt játékmegállítás, mennyire játszik szélesen az ellenfél, stb.) a távoli szélső helyezkedése nagyon változó lehet. A lényeg, hogy ellássa a következő 3 feladatot:
+
+1. Az esetleges fal melletti ellenfél áttörést lezárja utolsó emberként.
+2. Az ellenfél oldalváltását megfogja.
+3. A saját oldalváltásunkra ott legyen, mikor a hátsó / középső passzolna neki.
+
+Általában ilyenkor keveset kell lent töltenie, de annál fontosabb, hogy precízen helyezkedjen a víz felszínen és jól válassza meg a lejövetel időpontját. Fontos, hogy jól olvassa a játékot és megpróbálja előre kitalálni, hogy merre fog haladni a korong.
 
 ### Védekező sarok
 
@@ -89,7 +117,7 @@ A távoli szélső feljöhet a felszínre, ha a korong egyértelműen kiér a fa
 
 ## Szószedet
 
-### Közeli / távoli szélső
+### Közeli / távoli szélső (jobb elnevezésre vár)
 
 Ha bal fal közelében megy a játék, akkor a bal szélső a _közeli_ és a jobb szélső a _távoli_.
 Ha jobb fal közelében megy a játék, akkor a jobb szélső a _közeli_ és a bal szélső a _távoli_.
