@@ -10,6 +10,12 @@ github:
 # Markdown processor
 markdown: kramdown
 
+# Permalink style
+permalink: /:title/
+
+# Base URL for site
+baseurl: /uwh-doc
+
 # Exclude files from build
 exclude:
   - .gitignore

@@ -50,7 +50,7 @@ img[data-size="full"]   { width: 100%; }
 </style>
 
 <!-- Ráúszás -->
-<img src="abrak/szelso/rauszas.png" alt="Ráúszás" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/rauszas.png" alt="Ráúszás" data-size="medium">
 
 __Korong oldalra megy__
 
@@ -68,7 +68,7 @@ Nagyon ritka az, hogy ilyenkor el tudjon szakadni az ellenféltől, általában 
 
 Ha már elindult a közeli szélső a koronggal és láthatólag nem fogják szerelni, akkor a távoli szélső feljöhet a felszínre.
 
-<img src="abrak/szelso/rauszas_2.png" alt="Korong a szélsőhöz kerül" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/rauszas_2.png" alt="Korong a szélsőhöz kerül" data-size="medium">
 
 __Korongot az első viszi ki a oldalra__
 
@@ -78,7 +78,7 @@ __Fontos__, hogy mindkét esetben próbáljon meg a szélső már a fal előtt 1
 
 A távoli szélső feljöhet a felszínre, ha a korong egyértelműen kiér a falra.
 
-<img src="abrak/szelso/rauszas_3.png" alt="Korong az elsőhöz kerül" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/rauszas_3.png" alt="Korong az elsőhöz kerül" data-size="medium">
 
 #### Középpálya fal
 
@@ -86,7 +86,7 @@ __Helyezkedés, forgás__
 
 A standard forgás a falon a közeli szélső és a hátsó között folyik. Ideális esetben a középsőnek nem kell ide beforognia.
 
-<img src="abrak/szelso/fal_1.png" alt="Statikus faljáték" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/fal_1.png" alt="Statikus faljáték" data-size="medium">
 
 __Cél - statikus játék__
 
@@ -122,13 +122,13 @@ __Helyezkedés, forgás__
 Amennyiben a sarokba kerül a korong és már rendeződött a játék, a hátfalon forgást a hátsó és falolaldi (közeli) szélső fogja csinálni, míg a távoli szélső csak biztosító szerepet folytat a kapu sarkánál.
 Mivel ilyenkor a leg korlátozottabb a csapatok mozgása (két irányban is fal fogja a játékot), így gyakran alakul ki nagyon statikus játék, amikor 4 vagy 5 fő is lent van csapatonként. Ebben a helyzetben nagyon fontossá válik a pozícionálás a víz alatt, hiszen ha kitúrnak a megfelelő helyről, akkor azt hosszú időre is elveszíthetjük, mivel az "álldogálás" miatt mindenkinek több levegője lesz.
 
-<img src="abrak/szelso/forgas_hatfalon.png" alt="Forgás a hátfalon" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/forgas_hatfalon.png" alt="Forgás a hátfalon" data-size="medium">
 
 A __közeli szélső__ célja, hogy a fal mentén boxolással, vagy lövéssel kijutassa a korongot a sarokból. Leváltani ilyenkor rendkívűl veszélyes, hiszen egy jó betörés esetén pár uszonycsapás után a kapunk előtt lehet az ellenfél. Lőni csak akkor szabad a szélsőnek előre, ha nem lát lent ellenfél védőt és biztosan el tudja érni a saját lövését, vagy ha lent van egy első, aki a passzt biztosan fogadni tudja.
 
 __Fontos__, hogy elsőnek való passz esetén ne lőjjük túl a korongot az elsőn (vagy lőjjük el első nélkül), mert így lehetőséget adunk az ellenfélnek, hogy rögtön leváltsanak a falról (1.-es passz az ábrán). Szintén lényeges, hogy a passz a fal mentén történjen, egy esetleges átlós passz esetén könnyen be tud törni az ellenfél játékosa, ha sikerül megakasztania út közben a korongot (2.-es passz az ábrán).
 
-<img src="abrak/szelso/rossz_passz_sarok_kornyeken.png" alt="Rossz passzok sarokból kijövetelkor" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/rossz_passz_sarok_kornyeken.png" alt="Rossz passzok sarokból kijövetelkor" data-size="medium">
 
 A távoli szélső a legutolsó védő szerepét tölti be, beforognia csak akkor kell a sarokba, ha valamiért a hátsó és a közeli szélső nem tudják megoldani a feladatot - elfáradtak, lejött a maszk, stb.- és nem marad elég védő a hátfalon. Szituációtól függően ilyenkor sokszor a középső fog beforogni, emiatt fontos, hogy figyelje leghátulról a játékot és megválassza a megfelelő időpontot a kisegítésre.
 
@@ -146,7 +146,7 @@ A közeli szélsőnek haladnia kell a falon úgy, hogy ne nyomják fel, ne vesz�
 
 A távoli szélsőnek olvasnia kell a játékot és ahhoz mérten helyezkedni, hogy várhatóan merre fog továbbmenni a következő pár másodpercben. A legfontosabb feladata természetesen, hogy levédekezze az esetleg ellenfél megúszást, ám nem teheti meg, hogy beáll védekezni a falra a hátsó mögé, hiszen az esetek egy jelentős részében ő lesz a befejező ember a kapunál.
 
-<img src="abrak/szelso/tamado_sarok.png" alt="Rossz passzok sarokból kijövetelkor" data-size="medium">
+<img src="/uwh-doc/abrak/szelso/tamado_sarok.png" alt="Rossz passzok sarokból kijövetelkor" data-size="medium">
 
 ### Szószedet
 
