@@ -1,0 +1,19 @@
+title: Vízihoki - A könyv
+description: Magyar vízihoki tudásalap
+author: PusztaiMate
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+github:
+  repository_url: https://github.com/PusztaiMate/uwh-doc
+  
+# Markdown processor
+markdown: kramdown
+
+# Permalink style
+permalink: /:title/
+
+# Exclude files from build
+exclude:
+  - .gitignore
+  - README-setup.md
