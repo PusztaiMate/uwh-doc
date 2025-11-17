@@ -10,9 +10,6 @@ github:
 # Markdown processor
 markdown: kramdown
 
-# Permalink style
-permalink: /:title/
-
 # Exclude files from build
 exclude:
   - .gitignore
